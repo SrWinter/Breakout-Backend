@@ -1,1 +1,6 @@
-
+{
+    "Player": {
+        "banneduntil": "1/24/2026",
+        "BanReason": "(reason)"
+    }
+}
