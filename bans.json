@@ -2,5 +2,9 @@
     "Player": {
         "banneduntil": "1/24/2026",
         "BanReason": "(reason)"
+    },
+    "SrWinterfor": {
+        "banneduntil": "1/27/2025",
+        "BanReason": "until 1/27/2025"
     }
 }
